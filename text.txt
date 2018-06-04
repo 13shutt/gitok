@@ -1,2 +1,3 @@
 Hello Git! QWERTY
 Add new line :)
+Add another new line ^_^
